@@ -1,0 +1,14 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/micro-course/content-schema/main/schemas/course.schema.json
+
+id: "cm9je1cwg000080vnc2gn29ff"
+thumbnail: "https://s3.timeweb.com/132514fc-images-staging/content/logo-react.svg"
+dependencies:
+  - "test-course-2"
+title: "Test course"
+description: |
+  ## Course the best
+  - 1
+  - 2 
+  - [3](http://google.com)
+lessons:
+  - "lesson-1"
